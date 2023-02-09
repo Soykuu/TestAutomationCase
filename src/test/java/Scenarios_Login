@@ -1,0 +1,23 @@
+Login tests on "https://salessupportportal.nouryon.com/"
+
+test01-Login without a password
+       Go salessupportportal.nouryon.com website
+       Enter an e-mail adress
+       Click "Remember me" button
+       Click the login button
+       Verify the warn message
+
+test02-Login without an e mail
+       Go salessupportportal.nouryon.com website
+       Enter a password
+       Click "Remember me" button
+       Click the login button
+       Verify the warn message
+
+test03-Login with a wrong e-mail format
+       Go salessupportportal.nouryon.com website
+       Enter an e-mail adress
+       Enter a password
+       Click "Remember me" button
+       Click the login button
+       Verify the error message

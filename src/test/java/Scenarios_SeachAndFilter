@@ -1,0 +1,28 @@
+Searching and filtering vacancy on "https://www.nouryon.com/"
+
+test01-Search vacancies by searchbox
+       Go to Nouryon website
+       Accept all cookies
+       Click the search button
+       Write "Vacancies" in search box
+       Click Enter
+       Verify the page is Vacancy page
+
+test02-Search a specific job by searchbox
+       Go to Nouryon website
+       Accept all cookies
+       Click the search button
+       Write "Analyst" in search box
+       Click Enter
+       Click "Vacancy" check box
+       Verify the page if it has "Analyst" job results
+
+test03-Go vacancies page and use filter sections
+       Go to Nouryon website
+       Accept all cookies
+       Click the search button
+       Click Vacancies tab
+       Click "United States" check box
+       Click "Entry Level" check box
+       Click "Filter Results" button
+       Verify the filters on the page
