@@ -2,7 +2,7 @@
 
 ## Scenarios
 
-Login tests on "https://salessupportportal.nouryon.com/"
+Login test:
 
 **test01- Login without a password** <br>
        Go salessupportportal.nouryon.com website <br>
@@ -26,7 +26,7 @@ Login tests on "https://salessupportportal.nouryon.com/"
        Click the login button <br>
        Verify the error message <br>
        
-Searching and filtering vacancy on "https://www.nouryon.com/"
+Searching and filtering test:
 
 **test01- Search vacancies by searchbox** <br>
        Go to Nouryon website <br>
